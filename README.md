@@ -1,4 +1,5 @@
 # labspy03
+<<<<<<< HEAD
    
   labspy03
 Source code
@@ -63,3 +64,6 @@ B. Process for i in range(1,9,1): if(i<3): laba = 0 untung = untung + laba elif(
 
 
 ![input/output](https://github.com/ikmalriyan21/labspy03/blob/master/Gambar/Program1.png)
+=======
+
+>>>>>>> 2366286dc6eaffa05fb30ba30deab7c71d743ed9
