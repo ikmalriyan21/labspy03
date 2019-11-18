@@ -1,5 +1,5 @@
 # labspy03
-<<<<<<< HEAD
+
    
   labspy03
 Source code
